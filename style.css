@@ -1,0 +1,52 @@
+.container {
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.873);
+    margin-top: 50px;
+    width: 1000px;
+  }
+  
+.buttons {
+    margin-bottom: 10px;
+   }  
+  #sort-market-cap-button , #sort-percentage-change-button{
+    margin: 20px;
+    padding: 10px;
+    color: #ddddddc7;
+    background-color: rgba(0, 0, 0, 0);
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(255, 255, 255, 0.515);
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    
+  }
+  
+  th, td {
+    padding: 25px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    color: #fff;
+  }
+  
+  #coin-table img{
+    width:24px;
+  }
+
+  #search-input{
+    padding: 0px 11px;
+    margin: 18px;
+    width: 600px;
+    height: 32px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0);
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(255, 255, 255, 0.515);
+  }
+  .table{
+    text-align: center;
+  }
